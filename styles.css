@@ -1,0 +1,33 @@
+.head{
+font-family: 'Courier New', Courier, monospace;
+}
+.lead{
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;    
+
+}
+.nav_text
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+.CV
+{
+    margin-left: 35%;
+}
+.text{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+i{
+    font-size: 5rem;
+}
+.CV2
+{
+    margin-left: 40%;
+}
+.contact{
+    margin-left: 20%;
+}
+.ms-3
+{
+   font-size: large;
+}
